@@ -280,44 +280,44 @@ header nav li:last-child{
 
 
 /*----------------------
- 	Features Section
+ 	About Section
 ----------------------*/
 
-.features{
+.about{
 	background-color: #f7f7f7;
 }
 
-.features .grid li{
+.about .grid li{
 	padding: 0 30px;
 	flex-basis: 33%;
 	text-align: center;
 }
 
-.features .grid li i{
+.about .grid li i{
   font-size: 50px;
   color: #e34f26;
   margin-bottom: 25px;
 }
 
-.features .grid li h4{
+.about .grid li h4{
 	color: #555;
 	font-family: 'Quicksand', sans-serif;
   font-size: 20px;
   margin-bottom: 25px;
 }
 
-.features .grid li p{
+.about .grid li p{
     margin: 0;
 }
 
 @media (max-width: 1000px){
 
-	.features .grid li{
+	.about .grid li{
 		flex-basis: 70%;
 		margin-bottom: 65px;
 	}
 
-	.features .grid li:last-child{
+	.about .grid li:last-child{
 		margin-bottom: 0;
 	}
 
@@ -326,7 +326,7 @@ header nav li:last-child{
 
 @media (max-width: 600px){
 
-	.features .grid li{
+	.about .grid li{
 		flex-basis: 100%;
 	}
 
@@ -335,14 +335,14 @@ header nav li:last-child{
 
 
 /*--------------------
- 	Reviews Section
+ 	Inspiration Section
 --------------------*/
 
-.reviews{
+.inspiration{
 	background-color: #fff;
 }
 
-.reviews .quote{
+.inspiration .quote{
 	text-align: center;
 	width: 80%;
     font-size: 22px;
@@ -352,27 +352,27 @@ header nav li:last-child{
 	padding: 0;
 }
 
-.reviews .author{
+.inspiration .author{
     font-size: 18px;
     margin-bottom: 50px;
 }
 
-.reviews .author a,
-.reviews .author a:visited {
+.inspiration .author a,
+.inspiration .author a:visited {
 	color: #e34f26;
 }
 
-.reviews .author:last-child{
+.inspiration .author:last-child{
     margin-bottom: 0;
 }
 
 @media (max-width: 1000px){
 
-	.reviews .quote{
+	.inspiration .quote{
 		font-size: 20px;
 	}
 
-	.reviews .author{
+	.inspiration .author{
 	    font-size: 16px;
 	}
 
