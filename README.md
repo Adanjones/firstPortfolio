@@ -1,6 +1,5 @@
 # firstPortfolio
-**Hi, there**
-This is my first real 'README.md' attempt.
+**Hi, there,** this is my first real 'README.md' attempt.
 ---
 I don't have much to say here so, I'll let the code do most of the explaining. Take a look at my web profile and let me know what you think or changes you'd like to see in the future.
 ---
